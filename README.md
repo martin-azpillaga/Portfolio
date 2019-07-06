@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-cayman
+title: Martin Azpillagas
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/martin-azpillaga/martin-azpillaga.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
