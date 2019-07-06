@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/martin-azpillaga/martin-az
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link](/en/English)
+[Link](/en/English.md)
+
+[a relative link](other.md)
 
 ### Markdown
 
